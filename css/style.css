@@ -1,0 +1,13 @@
+.mainDiv {
+    border: 1px solid lightgrey;
+    width: 80%;
+}
+
+.mainDiv img {
+    width: 100%;
+}
+
+.mainDiv h5,
+.mainDiv p {
+    margin: 20px;
+}
