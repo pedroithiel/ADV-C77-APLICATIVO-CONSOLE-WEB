@@ -7,7 +7,7 @@ console.log("Variaves concatenadas");
 
 //Nome
 var primeiroNome = "Byjus ";
-var segundoNome = "Futureschool ";
+var segundoNome = "Future ";
 var terceiroNome = "School ";
 
 var nomeCompleto = "";
